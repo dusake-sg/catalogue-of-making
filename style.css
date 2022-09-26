@@ -63,7 +63,8 @@ body {
 }
 
 .page img {
-  width: 100px;
+  width: 100%;
+  height: auto;
 margin-top: 8px;
 vertical-align: middle;
 }
