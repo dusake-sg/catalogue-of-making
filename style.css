@@ -22,7 +22,7 @@ body {
   font-size: 46px;
   font-family: sans-serif;
   font-weight: bolder;
-  display: flex;
+  display:inline-block;
   justify-content: center;
   align-items: center;
   color: rgba(0,0,0,0.18);
@@ -55,4 +55,15 @@ body {
   background-color: #fff;
   top: 0;
   left: 0;
+}
+
+.style_1 {
+  font-size: 3rem;
+
+}
+
+.page img {
+  width: 100px;
+margin-top: 8px;
+vertical-align: middle;
 }
